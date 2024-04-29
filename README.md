@@ -1,4 +1,4 @@
-<h1<h1 align="center">Hi 👋, I'm Ketki Abhay Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm Ketki Abhay Kulkarni</h1>
 <h3 align="center">I’m a Business Analytics Master’s student at the University of Utah. Former Project Engineer at Wipro and Microsoft Azure Certified.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketkikulkarni15&label=Profile%20views&color=0e75b6&style=flat" alt="ketkikulkarni15" /> </p>
