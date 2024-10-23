@@ -28,7 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketkikulkarni15&label=Profile%20views&color=0e75b6&style=flat" alt="ketkikulkarni15" /> </p>
 
-- 🔭 I’m currently working on [Swire Coca-Cola Predictive Maintenance Project]
+- 🔭 I’m currently working on [Swire Coca-Cola Predictive Maintenance Project](https://github.com/KetkiKulkarni15/Coca-Cola-Swire)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KetkiKulkarni15](https://github.com/KetkiKulkarni15)
 
